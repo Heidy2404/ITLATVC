@@ -1,154 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\",
+  "WorkspaceRootPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\SeriesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Repository\\SeriesRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\repository\\seriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\repository\\seriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\ProductoraRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Repository\\ProductoraRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\GeneroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Repository\\GeneroRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\SeriesGeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Models\\SeriesGeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\database\\models\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|solutionrelative:database\\models\\productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Models\\Series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\database\\models\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|solutionrelative:database\\models\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Models\\Productora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\database\\models\\seriesgeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|solutionrelative:database\\models\\seriesgeneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Models\\Generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarSerieViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ViewModels\\GuardarSerieViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\repository\\productorarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\repository\\productorarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\database\\models\\generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|solutionrelative:database\\models\\generos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\viewmodels\\guardarserieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\guardarserieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\ProductorasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\ProductorasService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\controllers\\seriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\SeriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Controllers\\SeriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\services\\productorasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\services\\productorasservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\ProductoraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Controllers\\ProductoraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\controllers\\productoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\controllers\\productoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Genero\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\genero\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\genero\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\GeneroController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Controllers\\GeneroController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Productora\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\productora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\productora\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\genero\\creareditargenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\genero\\creareditargenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Series\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\series\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\productora\\creareditarproductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\productora\\creareditarproductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\EliminarGenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Genero\\EliminarGenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\genero\\eliminargenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\genero\\eliminargenero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\GuardarSerie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Series\\GuardarSerie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\series\\guardarserie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\series\\guardarserie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\DeleteSerie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Series\\DeleteSerie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\series\\deleteserie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\series\\deleteserie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Home\\Video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Home\\Video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\home\\video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\home\\video.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\EliminarProductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\Views\\Productora\\EliminarProductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\views\\productora\\eliminarproductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\views\\productora\\eliminarproductora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\GeneroService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\GeneroService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\services\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\services\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\SeriesViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ViewModels\\SeriesViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\viewmodels\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\seriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\ProductoraViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ViewModels\\ProductoraViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\viewmodels\\productoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\productoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarProductoraViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ViewModels\\GuardarProductoraViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\viewmodels\\guardarproductoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\guardarproductoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GenerosViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ViewModels\\GenerosViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\viewmodels\\generosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\generosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarGenerosViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\ViewModels\\GuardarGenerosViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\viewmodels\\guardargenerosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\guardargenerosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ITLATVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\itlatvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6F0F605-7375-4F84-8865-AE40D56D4F78}|ITLATVC\\ITLATVC.csproj|solutionrelative:itlatvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\SeriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Application\\Services\\SeriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\application\\services\\seriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E603B816-4331-4F05-9CFA-E56A2CEF2353}|Application\\Application.csproj|solutionrelative:application\\services\\seriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\ApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|c:\\users\\heidy\\onedrive\\escritorio\\basura mierda\\itlatvc\\database\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406D642D-E3FC-402B-BA6D-BC444D3F31E1}|Database\\Database.csproj|solutionrelative:database\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -158,15 +158,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ITLATVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ITLATVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -175,11 +175,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAiwCAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -188,115 +188,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Productora.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Productora.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Productora.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Productora.cs",
-              "RelativeToolTip": "Database\\Models\\Productora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:04.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Series.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Series.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Series.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Series.cs",
-              "RelativeToolTip": "Database\\Models\\Series.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:04.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeriesGeneros.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\SeriesGeneros.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\SeriesGeneros.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\SeriesGeneros.cs",
-              "RelativeToolTip": "Database\\Models\\SeriesGeneros.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:04.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeneroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\GeneroRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Repository\\GeneroRepository.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\GeneroRepository.cs",
-              "RelativeToolTip": "Application\\Repository\\GeneroRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:04.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoraRepository.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\ProductoraRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Repository\\ProductoraRepository.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\ProductoraRepository.cs",
-              "RelativeToolTip": "Application\\Repository\\ProductoraRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:04.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SeriesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\SeriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Repository\\SeriesRepository.cs",
               "RelativeDocumentMoniker": "Application\\Repository\\SeriesRepository.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Repository\\SeriesRepository.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Repository\\SeriesRepository.cs",
               "RelativeToolTip": "Application\\Repository\\SeriesRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA/wB0AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:28:04.67Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Series.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\Series.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Series.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\Series.cs",
+              "RelativeToolTip": "Database\\Models\\Series.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:28:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productora.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\Productora.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Productora.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\Productora.cs",
+              "RelativeToolTip": "Database\\Models\\Productora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:28:04.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeriesGeneros.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\SeriesGeneros.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\SeriesGeneros.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\SeriesGeneros.cs",
+              "RelativeToolTip": "Database\\Models\\SeriesGeneros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:28:04.678Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Generos.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Generos.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Generos.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Models\\Generos.cs",
-              "RelativeToolTip": "Database\\Models\\Generos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAbAAAA",
+              "Title": "GeneroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Repository\\GeneroRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repository\\GeneroRepository.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Repository\\GeneroRepository.cs",
+              "RelativeToolTip": "Application\\Repository\\GeneroRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:04.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T23:28:04.649Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GuardarSerieViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarSerieViewModel.cs",
-              "RelativeDocumentMoniker": "Application\\ViewModels\\GuardarSerieViewModel.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarSerieViewModel.cs",
-              "RelativeToolTip": "Application\\ViewModels\\GuardarSerieViewModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Title": "ProductoraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Repository\\ProductoraRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repository\\ProductoraRepository.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Repository\\ProductoraRepository.cs",
+              "RelativeToolTip": "Application\\Repository\\ProductoraRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T23:16:49.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T23:28:04.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Generos.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\Generos.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Generos.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Models\\Generos.cs",
+              "RelativeToolTip": "Database\\Models\\Generos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:28:04.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuardarSerieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GuardarSerieViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\GuardarSerieViewModel.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GuardarSerieViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\GuardarSerieViewModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:16:49.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SeriesController.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\SeriesController.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\SeriesController.cs",
               "RelativeDocumentMoniker": "ITLATVC\\Controllers\\SeriesController.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\SeriesController.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\SeriesController.cs",
               "RelativeToolTip": "ITLATVC\\Controllers\\SeriesController.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAAAEQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProductorasService.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\ProductorasService.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Services\\ProductorasService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\ProductorasService.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\ProductorasService.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Services\\ProductorasService.cs",
               "RelativeToolTip": "Application\\Services\\ProductorasService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,9 +315,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ProductoraController.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\ProductoraController.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\ProductoraController.cs",
               "RelativeDocumentMoniker": "ITLATVC\\Controllers\\ProductoraController.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\ProductoraController.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\ProductoraController.cs",
               "RelativeToolTip": "ITLATVC\\Controllers\\ProductoraController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAAADgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,9 +327,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Genero\\Index.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Genero\\Index.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Genero\\Index.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Genero\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -342,9 +339,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "GeneroController.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\GeneroController.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\GeneroController.cs",
               "RelativeDocumentMoniker": "ITLATVC\\Controllers\\GeneroController.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Controllers\\GeneroController.cs",
               "RelativeToolTip": "ITLATVC\\Controllers\\GeneroController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -354,9 +351,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Productora\\Index.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Productora\\Index.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Productora\\Index.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Productora\\Index.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAACEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -366,9 +363,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "CrearEditarGenero.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Genero\\CrearEditarGenero.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -378,9 +375,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Series\\Index.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Series\\Index.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Series\\Index.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Series\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -390,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "custom.css",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\wwwroot\\css\\custom.css",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\wwwroot\\css\\custom.css",
               "RelativeDocumentMoniker": "ITLATVC\\wwwroot\\css\\custom.css",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\wwwroot\\css\\custom.css",
               "RelativeToolTip": "ITLATVC\\wwwroot\\css\\custom.css",
               "ViewState": "AQIAAGgAAAAAAAAAAAAUwI4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -402,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "CrearEditarProductora.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Productora\\CrearEditarProductora.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -414,9 +411,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "EliminarGenero.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\EliminarGenero.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Genero\\EliminarGenero.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Genero\\EliminarGenero.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Genero\\EliminarGenero.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Genero\\EliminarGenero.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Genero\\EliminarGenero.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -426,9 +423,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ITLATVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\wwwroot\\css\\site.css",
               "RelativeToolTip": "ITLATVC\\wwwroot\\css\\site.css",
               "ViewState": "AQIAANoAAAAAAAAAAAAAAOUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -438,9 +435,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "GuardarSerie.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\GuardarSerie.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Series\\GuardarSerie.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Series\\GuardarSerie.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\GuardarSerie.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Series\\GuardarSerie.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Series\\GuardarSerie.cshtml",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -450,9 +447,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "DeleteSerie.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\DeleteSerie.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Series\\DeleteSerie.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Series\\DeleteSerie.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Series\\DeleteSerie.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Series\\DeleteSerie.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Series\\DeleteSerie.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -462,9 +459,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAACIAAAAAAAAAAAAAAHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -474,9 +471,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Video.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Home\\Video.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Home\\Video.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Home\\Video.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Home\\Video.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Home\\Video.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Home\\Video.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -486,9 +483,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Program.cs",
               "RelativeDocumentMoniker": "ITLATVC\\Program.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Program.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Program.cs",
               "RelativeToolTip": "ITLATVC\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -498,9 +495,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "EliminarProductora.cshtml",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\EliminarProductora.cshtml",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Productora\\EliminarProductora.cshtml",
               "RelativeDocumentMoniker": "ITLATVC\\Views\\Productora\\EliminarProductora.cshtml",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\Views\\Productora\\EliminarProductora.cshtml",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\Views\\Productora\\EliminarProductora.cshtml",
               "RelativeToolTip": "ITLATVC\\Views\\Productora\\EliminarProductora.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -510,9 +507,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "GeneroService.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\GeneroService.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Services\\GeneroService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\GeneroService.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\GeneroService.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Services\\GeneroService.cs",
               "RelativeToolTip": "Application\\Services\\GeneroService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -522,9 +519,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "SeriesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\SeriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\SeriesViewModel.cs",
               "RelativeDocumentMoniker": "Application\\ViewModels\\SeriesViewModel.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\SeriesViewModel.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\SeriesViewModel.cs",
               "RelativeToolTip": "Application\\ViewModels\\SeriesViewModel.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAowBEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -534,9 +531,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ProductoraViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\ProductoraViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\ProductoraViewModel.cs",
               "RelativeDocumentMoniker": "Application\\ViewModels\\ProductoraViewModel.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\ProductoraViewModel.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\ProductoraViewModel.cs",
               "RelativeToolTip": "Application\\ViewModels\\ProductoraViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -546,9 +543,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "GuardarProductoraViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarProductoraViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GuardarProductoraViewModel.cs",
               "RelativeDocumentMoniker": "Application\\ViewModels\\GuardarProductoraViewModel.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarProductoraViewModel.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GuardarProductoraViewModel.cs",
               "RelativeToolTip": "Application\\ViewModels\\GuardarProductoraViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -558,9 +555,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "GenerosViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GenerosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GenerosViewModel.cs",
               "RelativeDocumentMoniker": "Application\\ViewModels\\GenerosViewModel.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GenerosViewModel.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GenerosViewModel.cs",
               "RelativeToolTip": "Application\\ViewModels\\GenerosViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -570,9 +567,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "GuardarGenerosViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarGenerosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GuardarGenerosViewModel.cs",
               "RelativeDocumentMoniker": "Application\\ViewModels\\GuardarGenerosViewModel.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\ViewModels\\GuardarGenerosViewModel.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\ViewModels\\GuardarGenerosViewModel.cs",
               "RelativeToolTip": "Application\\ViewModels\\GuardarGenerosViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -582,9 +579,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\appsettings.json",
               "RelativeDocumentMoniker": "ITLATVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\appsettings.json",
               "RelativeToolTip": "ITLATVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -594,9 +591,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "SeriesService.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\SeriesService.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Services\\SeriesService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\SeriesService.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Services\\SeriesService.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Services\\SeriesService.cs",
               "RelativeToolTip": "Application\\Services\\SeriesService.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAABoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -606,17 +603,13 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "ApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\ApplicationContext.cs",
               "RelativeDocumentMoniker": "Database\\ApplicationContext.cs",
-              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\ApplicationContext.cs",
               "RelativeToolTip": "Database\\ApplicationContext.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAnwE4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:28:04.656Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

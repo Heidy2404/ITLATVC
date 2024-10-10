@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj": {}
+    "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj": {
+    "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj",
+        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\heidy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\obj\\",
+        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heidy\\AppData\\Roaming\\NuGet\\NuGet.Config",

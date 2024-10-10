@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\ITLATVC.csproj": {}
+    "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\ITLATVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Application.csproj": {
+    "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\heidy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\obj\\",
+        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heidy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj"
+              "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj": {
+    "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj",
+        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\heidy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\obj\\",
+        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heidy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\ITLATVC.csproj": {
+    "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\ITLATVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\ITLATVC.csproj",
+        "projectUniqueName": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\ITLATVC.csproj",
         "projectName": "ITLATVC",
-        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\ITLATVC.csproj",
+        "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\ITLATVC.csproj",
         "packagesPath": "C:\\Users\\heidy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\ITLATVC\\obj\\",
+        "outputPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\ITLATVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\heidy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,11 +179,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Application\\Application.csproj"
+              "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Application\\Application.csproj"
               },
-              "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj": {
-                "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\ITLATVC\\Database\\Database.csproj"
+              "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj": {
+                "projectPath": "C:\\Users\\heidy\\OneDrive\\Escritorio\\basura MIERDA\\ITLATVC\\Database\\Database.csproj"
               }
             }
           }

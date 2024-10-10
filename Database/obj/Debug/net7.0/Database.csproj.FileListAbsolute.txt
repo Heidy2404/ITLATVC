@@ -26,3 +26,17 @@ C:\Users\heidy\OneDrive\Escritorio\ITLATVC\Database\obj\Debug\net7.0\refint\Data
 C:\Users\heidy\OneDrive\Escritorio\ITLATVC\Database\obj\Debug\net7.0\Database.pdb
 C:\Users\heidy\OneDrive\Escritorio\ITLATVC\Database\obj\Debug\net7.0\Database.genruntimeconfig.cache
 C:\Users\heidy\OneDrive\Escritorio\ITLATVC\Database\obj\Debug\net7.0\ref\Database.dll
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\bin\Debug\net7.0\Database.deps.json
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\bin\Debug\net7.0\Database.runtimeconfig.json
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\bin\Debug\net7.0\Database.dll
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\bin\Debug\net7.0\Database.pdb
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.csproj.AssemblyReference.cache
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.AssemblyInfoInputs.cache
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.AssemblyInfo.cs
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.dll
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\refint\Database.dll
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.pdb
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\Database.genruntimeconfig.cache
+C:\Users\heidy\OneDrive\Escritorio\basura MIERDA\ITLATVC\Database\obj\Debug\net7.0\ref\Database.dll
