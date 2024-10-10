@@ -1,0 +1,51 @@
+﻿@model List<Application.ViewModels.GenerosViewModel>
+@{
+    ViewData["Title"] = "Home Genero";
+}
+
+<div class="card border border-danger">
+    <div class="container-fluid">
+        <h1 class="titulo-rosa">  Generos </h1>
+    </div>
+
+</div>
+
+<div class="container">
+    <div class="row mb-4">
+        <div class="row mb-4">
+            <div class="col text-center">
+                <a asp-controller="Genero" asp-action="Crear" class=" btn-modern">
+                    Crear <i class="fas fa-plus"></i>
+                </a>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        @foreach (var genders in Model)
+        {
+            <div class="col-md-4 mb-4 series-container2">
+                <div class="card shadow-sm border" style="background-color: #f5f5f5; color: #333;">
+                    <div class="card-header">
+                        <h4 class="card-title font-weight-bold">Nombre: @genders.Nombre</h4>
+                    </div>
+                    <div class="card-body p-3">
+                        <a asp-controller="Genero" asp-action="Actualizar" asp-route-id="@genders.Id" class="btn btn-sm" style="background-image: linear-gradient(to right, #428bca 0%, #5cb85c 100%); color: #fff; border-radius: 5px;">
+                            Edit <i class="fa-solid fa-pen-to-square"></i>
+                        </a>
+                        <a asp-controller="Genero" asp-action="EliminarGenero" asp-route-id="@genders.Id" class="btn btn-sm btn-danger" onclick="return confirmarEliminacion('@genders.Nombre')" style="border-radius: 5px;">
+                            Delete <i class="fa-solid fa-delete-left"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<script>
+    function confirmarEliminacion(generoNombre) {
+        return confirm(`¿Estás seguro que quieres eliminar el genero '${generoNombre}'? Si la eliminas, las series asociadas se eliminarán también.`);
+    }
+</script>
+

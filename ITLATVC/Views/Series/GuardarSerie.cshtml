@@ -1,0 +1,82 @@
+﻿@model Application.ViewModels.GuardarSerieViewModel
+
+@{
+    ViewData["Title"] = "Create or Edit Serie";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    bool isEditMode = Model.Id != 0; // Declare isEditMode here
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card border border-light shadow">
+                <div class="card-header bg-light text-dark">
+                    @if (isEditMode)
+                    {
+                        <h5 class="text-center">Editando Serie: @Model.Nombre</h5>
+                    }
+                    else
+                    {
+                        <h5 class="text-center">Creando una Nueva Serie</h5>
+                    }
+                    <i class="fa-solid fa-pen-to-square"></i>
+                </div>
+                <div class="card-body" style="background-color: brown;">
+                    <form method="post" asp-controller="Series" asp-action="@(isEditMode ? "Editar" : "Crear")">
+                        <div class="form-group mb-3">
+                            <label asp-for="Nombre" class="form-label">Nombre:</label>
+                            <input asp-for="Nombre" class="form-control" placeholder="Name" />
+                            <span asp-validation-for="Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="Portada" class="form-label">Imagen:</label>
+                            <input asp-for="Portada" class="form-control" placeholder="Image URL" />
+                            <span asp-validation-for="Portada" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="Enlace" class="form-label">Video:</label>
+                            <input asp-for="Enlace" class="form-control" placeholder="Video URL" />
+                            <span asp-validation-for="Enlace" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="ProductoraId" class="form-label">Productora:</label>
+                            <select asp-for="ProductoraId" class="form-select">
+                                <option value="0">Seleccione una productora</option>
+                                @foreach (var producer in ViewBag.Productores)
+                                {
+                                    <option value="@producer.Id">@producer.Nombre</option>
+                                }
+                            </select>
+                            <span asp-validation-for="ProductoraId" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="Generos" class="form-label">Genero Primario:</label>
+                            <select asp-for="Generos" class="form-select">
+                                @foreach (var genero in ViewBag.Generos)
+                                {
+                                    <option value="@genero.Id">@genero.Nombre</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Generos" class="text-danger"></span>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label asp-for="GenerosSecundario" class="form-label">Genero Secundario:</label>
+                            <select asp-for="GenerosSecundario" class="form-select">
+                                @foreach (var genero in ViewBag.Generos)
+                                {
+                                    <option value="@genero.Id">@genero.Nombre</option>
+                                }
+                            </select>
+                            <span asp-validation-for="GenerosSecundario" class="text-danger"></span>
+                        </div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="d-flex justify-content-between">
+                            <a asp-controller="Series" asp-action="Index" class="btn btn-danger">Atrás</a>
+                            <button type="submit" class="btn btn-success">Guardar</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

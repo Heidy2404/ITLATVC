@@ -1,0 +1,76 @@
+﻿@model List<Application.ViewModels.SeriesViewModel>
+
+@{
+    ViewData["Title"] = "Explorar Series";
+}
+
+<style>
+    .text-marron {
+        color: brown;
+    }
+
+    .bg-marron {
+        background-color: brown;
+    }
+
+    .cardStyle {
+        background-color: black;
+        color: white;
+    }
+
+    .search-container {
+        margin-bottom: 20px;
+    }
+</style>
+
+<div class="container">
+    <h2 class="text-center text-marron">@ViewData["Title"]</h2>
+
+    <div class="row search-container justify-content-center">
+        <div class="col-md-8">
+            <form method="post" asp-controller="Home" asp-action="BuscarNombre" class="d-flex mb-3">
+                <input type="text" name="nombre" class="form-control bg-dark text-white me-2" placeholder="Nombre de la serie" />
+                <button class="btn btn-outline-success" type="submit">Buscar</button>
+            </form>
+            <form method="post" asp-controller="Home" asp-action="BuscarProductor" class="d-flex mb-3">
+                <select name="id" class="form-select bg-dark text-white me-2">
+                    <option value="">Selecciona un productor</option>
+                    @foreach (var productor in ViewBag.Productores)
+                    {
+                        <option value="@productor.Id">@productor.Nombre</option>
+                    }
+                </select>
+                <button type="submit" class="btn btn-outline-success">Buscar</button>
+            </form>
+            <form method="post" asp-controller="Home" asp-action="BuscarGenero" class="d-flex mb-3">
+                <select name="id" class="form-select bg-dark text-white me-2">
+                    <option value="">Selecciona un género</option>
+                    @foreach (var genero in ViewBag.Generos)
+                    {
+                        <option value="@genero.Id">@genero.Nombre</option>
+                    }
+                </select>
+                <button class="btn btn-outline-success" type="submit">Buscar</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        @foreach (var serie in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-sm cardStyle">
+                    <img class="card-img-top" src="@serie.Portada" alt="Portada de @serie.Nombre" />
+                    <div class="card-body">
+                        <h4 class="card-title">Título: @serie.Nombre</h4>
+                        <p class="card-text">Géneros: @string.Join(", ", serie.Genero.Concat(serie.GeneroSecundario ?? Enumerable.Empty<string>()))</p>
+                        <p class="card-text">Productor: @serie.NombreProductora</p>
+                        <form method="post" asp-action="VerDetalleVideo">
+                            <button type="submit" asp-controller="Home" asp-action="Video" class="btn btn-danger" asp-route-id="@serie.Id">Ver Detalle</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

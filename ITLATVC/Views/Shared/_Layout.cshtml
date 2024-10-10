@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ITLATVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/custom.css" />
+    <link rel="stylesheet" href="~/ITLATVC.styles.css" asp-append-version="true" />
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnH2N1cFMD6X0VwKp1e6uE1B4PqE4k5G4hbO6IEfF4C5lX5cLk5Rq7Q2mUVGg6d6d+iN5DQBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .navbar-custom {
+            background-color: #343a40; /* Dark background */
+            padding: 1rem;
+        }
+
+            .navbar-custom .navbar-brand {
+                color: #f8f9fa; /* Light color for text */
+                font-size: 1.5rem;
+                font-weight: bold;
+                position: relative;
+                transition: color 0.3s;
+            }
+
+                .navbar-custom .navbar-brand::after {
+                    content: '';
+                    position: absolute;
+                    left: 0;
+                    bottom: -5px;
+                    width: 100%;
+                    height: 3px;
+                    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 100%);
+                    opacity: 0;
+                    transition: opacity 0.3s, transform 0.3s;
+                    transform: translateY(5px);
+                }
+
+                .navbar-custom .navbar-brand:hover::after {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+
+            .navbar-custom .nav-link {
+                color: #f8f9fa;
+                font-weight: bold;
+                margin: 0 0.5rem;
+                position: relative;
+                transition: color 0.3s;
+            }
+
+                .navbar-custom .nav-link::before {
+                    content: '';
+                    position: absolute;
+                    left: 50%;
+                    bottom: -5px;
+                    width: 0;
+                    height: 3px;
+                    background: #f8f9fa;
+                    transition: width 0.3s, left 0.3s;
+                }
+
+                .navbar-custom .nav-link:hover::before {
+                    width: 100%;
+                    left: 0;
+                }
+
+        .navbar-toggler {
+            border: none;
+        }
+
+        .navbar-toggler-icon {
+            background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'><path stroke='rgba(255,255,255,0.8)' stroke-width='2' linecap='round' linejoin='round' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-custom">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="@Url.Action("Index", "Home")">ITLA Tv</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="@Url.Action("Index", "Home")">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Index", "Series")">Mant Series</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Index", "Productora")">Mant Productoras</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="@Url.Action("Index", "Genero")">Mant Generos</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,39 @@
+﻿@model Application.ViewModels.GuardarProductoraViewModel
+@{
+    ViewData["Title"] = "Create or Edit Producer";
+    bool isEditMode = Model.Id == 0 ? false : true;
+}
+
+<div class="card border border-danger">
+    <div class="container-fluid">
+        <h1 class="titulo-naranja"> Creando Productora </h1>
+    </div>
+
+</div>
+
+
+
+
+<div class="card border border-danger">
+
+    <div class="container-fluid">
+
+        <div class="row">
+            <div class="col-6 offset-3">
+                <div class="form-group bg-light border p-3 rounded" style="background-color: #EE131D;">
+                    <h5 class="text-center">@(isEditMode ? $"Editando Productora: {Model.Nombre}" : "Creando Productora") <i class="fa-solid fa-film"></i></h5>
+
+                    <form method="post" asp-controller="Productora" asp-action="@(isEditMode ? "Actualizar" : "Crear")">
+                        <div class="mb-3">
+                            <label asp-for="Nombre" class="form-label" style="color: #922B21;">Nombre: </label>  <input type="text" asp-for="Nombre" class="form-control" placeholder="Nombre" />
+                            <span asp-validation-for="Nombre" class="text-danger"></span>
+                        </div>
+
+                        <input type="hidden" asp-for="Id" />
+                        <a asp-controller="Productora" asp-action="Index" class="btn btn-outline-primary" style="background-color: #EE131D; color: #FDFEFE;">Volver</a>  <button type="submit" class="btn btn-outline-primary" style="background-color: #1D8348; color: #FDFEFE;">Guardar</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

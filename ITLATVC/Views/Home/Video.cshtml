@@ -1,0 +1,44 @@
+﻿@model Application.ViewModels.GuardarSerieViewModel
+
+@{
+    ViewData["Title"] = "Detalles de la Serie";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    <h2>@Model.Nombre</h2>
+
+    @{
+        var videoId = ObtenerIdVideoYouTube(Model.Enlace);
+        var embedUrl = $"https://www.youtube.com/embed/{videoId}";
+    }
+
+    <div class="series-container1">
+        <iframe width="100%" height="500" src="@embedUrl" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div>
+    <p style="font-size:19px;">Productora: @Model.Nombre</p>
+    
+</div>
+
+<div class="row">
+</div>
+
+<div>
+    <form asp-controller="Home" asp-action="Index">
+        <div class="form-group">
+            <button type="submit" class="btn btn-warning">Regresar</button>
+        </div>
+    </form>
+</div>
+
+@functions {
+    public string ObtenerIdVideoYouTube(string enlaceCompleto)
+    {
+        var uri = new Uri(enlaceCompleto);
+        var videoId = System.Web.HttpUtility.ParseQueryString(uri.Query).Get("v");
+        return videoId;
+    }
+}
